@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/DaemonT1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/DaemonT2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/EchoExitServer1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/EchoExitServer2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/EchoExitServer3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/EchoExitServer4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/Shutdown1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo1/SignalHandlerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/io/netty/cases/chapter/demo2/MockServer.java" charset="GBK" />
+  </component>
+</project>
